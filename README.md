@@ -1,4 +1,4 @@
-# Market Tracker — Real-Time Crypto & Forex Desktop Monitor
+# Market Tracker 
 
 A production-grade PySide6 desktop application that streams live cryptocurrency,
 foreign-exchange, and global equity data from multiple independent providers with
@@ -481,14 +481,14 @@ market_tracker/
 - The app is a **monitor**, not a trading terminal: no orders, no
   authentication with exchanges, no portfolio tracking.
 
-**Made By D6VAlex**
+**Made By z01309z**
 
 License
 
-Copyright © 2026 D6VAlex. All rights reserved.
+Copyright © 2026 z01309z. All rights reserved.
 
-This project is developed and owned by D6VAlex.
+This project is developed and owned by z01309z.
 
 Unauthorized copying, modification, redistribution, or commercial use of this project is prohibited without prior permission from the author.
 
-Developer: D6VAlex
+Developer: z01309z
