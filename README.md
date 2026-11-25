@@ -485,7 +485,7 @@ market_tracker/
 
 License
 
-Copyright © 2026 z01309z. All rights reserved.
+Copyright © z01309z. All rights reserved.
 
 This project is developed and owned by z01309z.
 
